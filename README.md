@@ -3,6 +3,7 @@
 This post/tutorial focuses on Next.js SPA for e-commerce.
 
 Tutorial steps 🛠
+
 - Setting up the development environment
 - Defining a layout
 - Customising your homepage
