@@ -1,0 +1,39 @@
+{
+  "workbench.colorTheme": "Dracula",
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter-notebook"
+  },
+  "notebook.cellToolbarLocation": {
+    "default": "right",
+    "jupyter-notebook": "left"
+  },
+  "editor.formatOnSaveMode": "modifications",
+  "workbench.iconTheme": "material-icon-theme",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "typescript.format.enable": true,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    }
+  },
+  "prettier.singleQuote": true,
+  "javascript.format.enable": true,
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "eslint.format.enable": false,
+  "typescript.suggestionActions.enabled": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.organizeImports": true
+  },
+  "typescript.inlayHints.variableTypes.enabled": true,
+  "eslint.packageManager": "yarn",
+  "prettier.jsxSingleQuote": true,
+  "css.validate": false,
+  "editor.quickSuggestions": {
+    "strings": true
+  }
+}
